@@ -2,4 +2,8 @@
 out/
 .idea
 .vscode
+
 *.iml
+*.gz
+*.aux
+*.log
