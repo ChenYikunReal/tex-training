@@ -1,6 +1,12 @@
-# Tex学习训练
+# TeX学习训练
 
-## TexLive下载(Windows版)
+![在这里插入图片描述](https://github.com/ChenYikunReal/tex_training/blob/master/images/latex-formula.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+
+
+![在这里插入图片描述](https://github.com/ChenYikunReal/tex_training/blob/master/images/latex-paper.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+
+
+## TeXLive下载(Windows版)
 - [自动选择](http://mirror.ctan.org/systems/texlive/Images/texlive2020.iso)
 - [清华大学镜像](https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/texlive2020.iso)
 - [北京交通大学镜像](https://mirror.bjtu.edu.cn/ctan/systems/texlive/Images/texlive2020.iso)
@@ -9,6 +15,9 @@
 - [重庆大学镜像](https://mirrors.cqu.edu.cn/CTAN/systems/texlive/Images/texlive2020.iso)
 - [腾讯云镜像](https://mirrors.cloud.tencent.com/CTAN/systems/texlive/Images/texlive2020.iso)
 - ……
+
+## TeXStudio下载
+- [官网下载](https://texstudio.org)
 
 
 解压`.iso`文件，找到并右键单击`install-tl-advanced.bat`，以管理员权限执行即可安装。
