@@ -1,9 +1,9 @@
 # TeX学习训练
 
-![在这里插入图片描述](https://github.com/ChenYikunReal/tex_training/blob/master/images/latex-formula.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+![](images/latex-formula.jpg)
 
 
-![在这里插入图片描述](https://github.com/ChenYikunReal/tex_training/blob/master/images/latex-paper.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+![](images/latex-paper.jpg)
 
 
 ## TeXLive下载(Windows版)
@@ -70,3 +70,10 @@ Compiled with poppler version 0.68.0
 Compiled with fontconfig version 2.13.92; using 2.13.92
 
 ```
+
+## TeX学习资料
+- [LaTeX入门教程](https://www.jianshu.com/p/3e842d67ada2)
+- [Liam Huang的博客](https://liam.page/categories/LaTeX/)
+    - [TeXLive下载安装](https://liam.page/texlive/)
+    - [TeX常用命令](https://liam.page/2014/09/08/latex-introduction/)
+- [TeX在线公式编辑器](http://latex.codecogs.com/eqneditor/editor.php)
